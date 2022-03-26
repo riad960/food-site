@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "model": "Google Pixel 3",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_1-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=244ea1a40fcee023aaa1a3415143ba9b5ad88fe89fdf5233b089676d1aebb331",
+        "price": 799
+    },
+    {
+        "id": 2,
+        "model": "Samsung Note 9",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_2-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a1eae8347f40060d8cdc192747f6a5f1bddac0b7fb9358fc007f1ba0c092ea81",
+        "price": 999
+    },
+    {
+        "id": 3,
+        "model": "Apple iPhone XS",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_3-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c82d98745860758afbb4d3635a8f0bf87f6b7d6a8a4833008b5f1a97b9dceb8a",
+        "price": 999
+    },
+    {
+        "id": 4,
+        "model": "Samsung Galaxy S9+",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_4-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=91453a3815047f54855e1ce389c48d09d805dc008d3eec7dbe3bfbfe501aa648",
+        "price": 840
+    },
+    {
+        "id": 5,
+        "model": "Xiaomi Pocophone F1",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_5-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bcff5d5d33b15164f40c9dc1f59b77a8944042833e5cabbe13311638c3e311a2",
+        "price": 300
+    },
+    {
+        "id": 6,
+        "model": "Xiaomi Mi 8",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_6-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=075d36af095f18a45102631bf3a801dcb7980997888631100124b2f7799fcdbc",
+        "price": 400
+    },
+    {
+        "id": 7,
+        "model": "Huawei Mate 10 Pro",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/phone_7-min.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fbbf7cbb85b93732d14062ddc76b487068605ce6f8d7cd7785a1ae05b244d378",
+        "price": 800
+    },
+    {
+        "id": 8,
+        "model": "Samsung Galaxy A7 (2018)",
+        "image": "https://the-mobile-store.s3.amazonaws.com/img/samsunggalaxya72018.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBQJFCTCQPALOLKQ%2F20220326%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220326T102109Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4fc04ce253c910767080b841fbaa1da82799166eece4e97d75731497a09a4c04",
+        "price": 533
+    },
+    {
+        "id": 9,
+        "model": "Honor 10 Lite",
+        "image": "https://toptofind.com/wp-content/uploads/2019/01/Honor-10-Lite-Review.jpeg",
+        "price": 330.00
+    }
+]

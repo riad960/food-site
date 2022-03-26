@@ -10,4 +10,12 @@ setInterval(() => {
   }
   icon.nextElementSibling.classList.add("change");
 }, 3000);
-console.log("object");
+
+// menu sec
+const menu = document
+  .querySelector(".menu")
+  .addEventListener("click", function () {
+    document.querySelectorAll(".target").forEach((items) => {
+      items.classList.toggle("change");
+    });
+  });
